@@ -1,0 +1,3 @@
+/* MAXIMIZE ACTIVE SECTION WITH TRADE I
+* Medium
+* */
